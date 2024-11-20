@@ -1,0 +1,21 @@
+{
+  "name": "my-local-domain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nrwl/nx": "^7.8.7",
+    "nx": "20.1.2"
+  },
+  "nx": {}
+}
